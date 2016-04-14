@@ -1,0 +1,5 @@
+I traversed the DOM by identifying "img", which I had to identify in order to
+create an animation. When the image is clicked, the phrase "Enjoy" pops up after 
+the Ingredients and Instructions sections. I also manipulated the CSS by having 
+"h2", where the name of the food the recipe is for is written, get highlighted in
+pink when hovered over. 
